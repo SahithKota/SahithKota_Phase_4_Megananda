@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "question":"Which of the following JavaScript cannot do?",
+      "answers":["JavaScript can react to events","JavaScript can manipulate HTML elements","JavaScript can be use to validate data","All of the Above"],
+      "correct":3
+   },
+   {
+       "id": 2,
+       "question":"_________ keyword is used to declare variables in javascript.",
+       "answers":["Var","Dim","String"],
+       "correct":0
+    },
+    {
+      "id": 3,
+      "question":"The attribute used to define a new namespace is.",
+      "answers":["XMLNS","XmlNameSpace","Xmlns","XmlNs"],
+      "correct":2
+   },
+   {
+    "id": 4,
+    "question":"Which browser can supports the transition property?",
+    "answers":["Internet Explorer 10","Firefox","Chrome","All of the Above"],
+    "correct":3
+ },
+ {
+  "id": 5,
+  "question":"Which of the following options is correct with regard to HTML?",
+  "answers":["It is a modelling language","It is a scripting language","It is a partial programming language","It is used to structure documents"],
+  "correct":3
+},
+{
+  "id": 6,
+  "question":"Which CSS property can provide to add an effect when changing from one style to another,without using Flash animations or javascript?",
+  "answers":["Associations","Transitions","Transistor","None of the above"],
+  "correct":1
+},
+{
+  "id": 7,
+  "question":"____________ is the tainted property of a window object.",
+  "answers":["Pathname","Protocol","Defaultstatus","Host"],
+  "correct":2
+},
+{
+  "id": 8,
+  "question":"When a JavaScript object is sent to Java, the runtime engine creates a Java wrapper of type",
+  "answers":["ScriptObject","JSObject","JavaObject","Jobject"],
+  "correct":1
+},
+{
+  "id": 9,
+  "question":"The TFOOT section of a table must appear before the TBODY section.",
+  "answers":["True","False"],
+  "correct":1
+},
+{
+  "id": 10,
+  "question":"Which of the following is NOT a Style?",
+  "answers":["Linked","Embedded","Inline","Orthogonal"],
+  "correct":3
+}
+  ] 
+}
